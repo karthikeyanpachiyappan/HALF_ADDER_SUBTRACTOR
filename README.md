@@ -33,9 +33,7 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
-
-**Procedure**
+# Procedure
 
 1.	Type the program in Quartus software.
 
@@ -52,10 +50,33 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+# Developed by: karthikeyan P
+# RegisterNumber:212223230102
+# HALF ADDER
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/c196885d-6ec4-418b-ac12-c4f743fa576b)
 
-**RTL Schematic**
+# RTL Schematic
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/228a7577-ae5e-461c-a9c9-3e31c59d5396)
 
-**Output/TIMING Waveform**
+# Truth table
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/d3931159-5031-4e6d-8cf6-f09135df42f5)
 
-**Result:**
+
+# output/TIMING Waveform
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/3939eef1-70e8-4746-b60c-6aa0d6fd802a)
+
+## HALF SUBTRACTOR
+# Program
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/df967c55-e319-40a5-8861-1c9854084499)
+
+# RTL Schematic
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/2dbd959a-28f1-4538-9ba6-ec98a00af99c)
+
+# Truth table
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/7345c9a5-5b3a-482c-9183-c7eb407e34f9)
+
+# Output/TIMING Waveform
+![image](https://github.com/karthikeyanpachiyappan/HALF_ADDER_SUBTRACTOR/assets/155143878/109dc8cb-9849-46f4-a36a-f0edd933929a)
+
+# Result:
+Thus the program has successfully verified.
